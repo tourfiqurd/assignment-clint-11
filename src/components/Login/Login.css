@@ -1,0 +1,10 @@
+.main-container {
+    height: 200px;
+    padding: 500px;
+    background-image:
+        linear-gradient(to bottom, rgba(5, 5, 5, 0.52), rgba(0, 0, 0, 0.73)),
+        url('https://image.freepik.com/free-vector/flat-travel-background_23-2148050086.jpg');
+
+    background-size: cover;
+    padding-right: 200px;
+}
